@@ -1,0 +1,20 @@
+- key: Name
+  value: James Meldrum
+- key: Alias
+  value: lisp-ceo
+- key: Email
+  value: j@lisp-ceo.com
+  url: mailto:j@lisp-ceo.com
+- key: location
+  value: Australia/Melbourne
+- key: role
+  value:
+    - software developer
+    - hacker
+  typed: true
+- key: Github
+  value: https://github.com/lisp-ceo
+  url: https://github.com/lisp-ceo
+- key: TikTok
+  value: https://tiktok.com/lisp-ceo
+  url: https://tiktok.com/lisp-ceo
